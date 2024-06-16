@@ -25,6 +25,14 @@
 后来又尝试了用Windows UI，
 也以失败告终
 
+## 关于源码
+
+源码为仓库内的main.bat
+修改、使用请遵守Apache 2.0开源协议
+你可以使用Bat To EXE自行加密或使用其他方法
+源码内有多处需要用到你自己搭建的服务器(如在线更新等)
+需要将源码内的http://x.x.x.x/example.html 
+替换为你自己的服务器URL
 
 ## License
 As such, it contains modifications to it in this project, please see the repository for license information
